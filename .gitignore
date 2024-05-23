@@ -10,6 +10,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bitcoin-core-src
+bitcoin-core-src-new
 build/
 develop-eggs/
 dist/
